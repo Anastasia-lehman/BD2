@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anastasia-lehman/BD2/issues"
   },
-  "homepage": "https://github.com/Anastasia-lehman/BD2#readme"
+  "homepage": "https://github.com/Anastasia-lehman/BD2#readme",
+  "dependencies": {
+    "pg": "^8.4.1"
+  }
 }
