@@ -1,22 +1,11 @@
 {
-  "name": "bd2",
+  "name": "les4",
   "version": "1.0.0",
   "description": "",
-  "main": "sem1.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Anastasia-lehman/BD2.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Anastasia-lehman/BD2/issues"
-  },
-  "homepage": "https://github.com/Anastasia-lehman/BD2#readme",
-  "dependencies": {
-    "pg": "^8.4.1"
-  }
+  "license": "ISC"
 }
